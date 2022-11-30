@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1668781924430,
+  "timestamp": 1669820032832,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/433.dbab04fc29ef3e74.js",
+        "/433.b445c8dc19d8ee7e.js",
         "/favicon.ico",
         "/index.html",
-        "/main.cd29a1bd678e41ce.js",
+        "/main.7d2df3b8348f7f20.js",
         "/manifest.webmanifest",
         "/polyfills.9e8a5187e66563c0.js",
-        "/runtime.7effa9c47d310527.js",
+        "/runtime.f4bc118262207218.js",
         "/styles.c2bacaec17939ad1.css"
       ],
       "patterns": []
@@ -64,8 +64,11 @@
         "/assets/com.ar.mp4",
         "/assets/enard.png",
         "/assets/fa_youtube.png",
+        "/assets/favicon.png",
         "/assets/fevabarra.png",
         "/assets/fivb.png",
+        "/assets/fondo.jpg",
+        "/assets/fondo1.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -101,6 +104,7 @@
         "/assets/vol.gif",
         "/assets/voley3.jfif",
         "/assets/volleyball-solid.svg",
+        "/fondo1.b197943c74cc2cc7.png",
         "/videogular.a2e9f11f226cda93.ttf",
         "/videogular.b5fa324995460a3b.svg",
         "/videogular.ef07f01ce399477e.woff"
@@ -110,7 +114,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/433.dbab04fc29ef3e74.js": "7968f52007225484592f1028c93939c37a2de078",
+    "/433.b445c8dc19d8ee7e.js": "27b8247d7f62a48503910608ddbe611b64193afd",
     "/Kanit-italic-700.c9096f61de66111c.woff2": "6c02040e884f9d23c305ea87290cc5a5adc188fe",
     "/Kanit-italic-700.df3b457e830fb275.ttf": "ed0a8f726afc3e8e1676e081ca1daa77c740e453",
     "/Kanit-italic-700.ef7231f844e7a12b.woff": "b1f725e5d57c2ac43e9aceb16457563aae2a9d58",
@@ -145,8 +149,11 @@
     "/assets/com.ar.mp4": "584c9d823999be9fc87d3cb2008f45a7fdc9ec05",
     "/assets/enard.png": "7892f64c8488ecd921b98b1877e4a31b52cee107",
     "/assets/fa_youtube.png": "dd95f1655302a56e45af5297c98709186d96a598",
+    "/assets/favicon.png": "bd75c6f32fc3f10497227577f55021597c0b1355",
     "/assets/fevabarra.png": "4c0a02a0dcc07e34015df54ae741ccf08f5933ee",
     "/assets/fivb.png": "0a1c26f151508ad1b43bca8d1241450944f37380",
+    "/assets/fondo.jpg": "f8bd9ad7371d8113b42fd0afa397178fb12e9f2b",
+    "/assets/fondo1.png": "a9bf263514b25d8ba0e1e1947131751731a9f39b",
     "/assets/icons/icon-128x128.png": "bfd60f2a4138f8d2cdf6a6aee896219cecac7132",
     "/assets/icons/icon-144x144.png": "37a9ed82cd3381d733429a9a8e00ef6cf2af255c",
     "/assets/icons/icon-152x152.png": "3281ce6530a775881e2bc57e5266c9ab9c0cf26c",
@@ -183,11 +190,12 @@
     "/assets/voley3.jfif": "c68fdfd945fca254482abc70a03f919b6944899f",
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "857d4ecff808ed5e34200061594535ab43eb56d4",
-    "/main.cd29a1bd678e41ce.js": "4acc59af91b6381bda3a7e8f86bb48ac7e6cc0b6",
-    "/manifest.webmanifest": "8dfb6e92597217fe58a14abe174f40d337795529",
+    "/fondo1.b197943c74cc2cc7.png": "a9bf263514b25d8ba0e1e1947131751731a9f39b",
+    "/index.html": "e1ef930e0e0418122372412e44a3c61a0571e212",
+    "/main.7d2df3b8348f7f20.js": "2b1f01b5e245dc4dcb4e04e5d00f5857ef7a763c",
+    "/manifest.webmanifest": "a484f0b04c2ddb5fed0817fadb633610e713d033",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
-    "/runtime.7effa9c47d310527.js": "6fdf948a5271f59a8cecebdd79ab0cb5f282cb3e",
+    "/runtime.f4bc118262207218.js": "03f09e8a21278cad8922568c96da1f14b80e911a",
     "/styles.c2bacaec17939ad1.css": "72cf2e9aba4574a9dd28b2fc2750ecb960ceb2a5",
     "/videogular.a2e9f11f226cda93.ttf": "bb67bb29f92837ac5e2ea0bfd9fa689ad15fb887",
     "/videogular.b5fa324995460a3b.svg": "5f425e191f26e38cc784ef48eafebdb6d2b070db",
