@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669825674052,
+  "timestamp": 1669899412766,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/433.b445c8dc19d8ee7e.js",
+        "/433.9d4b530212461e58.js",
         "/favicon.ico",
         "/index.html",
         "/main.7d2df3b8348f7f20.js",
         "/manifest.webmanifest",
         "/polyfills.9e8a5187e66563c0.js",
-        "/runtime.f4bc118262207218.js",
+        "/runtime.4664668cc0c6ed31.js",
         "/styles.c2bacaec17939ad1.css"
       ],
       "patterns": []
@@ -114,7 +114,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/433.b445c8dc19d8ee7e.js": "27b8247d7f62a48503910608ddbe611b64193afd",
+    "/433.9d4b530212461e58.js": "ef5f8cf6eb06b3b275cb9f0c29c274b8cc62e459",
     "/Kanit-italic-700.c9096f61de66111c.woff2": "6c02040e884f9d23c305ea87290cc5a5adc188fe",
     "/Kanit-italic-700.df3b457e830fb275.ttf": "ed0a8f726afc3e8e1676e081ca1daa77c740e453",
     "/Kanit-italic-700.ef7231f844e7a12b.woff": "b1f725e5d57c2ac43e9aceb16457563aae2a9d58",
@@ -131,7 +131,7 @@
     "/assets/000222.jfif": "364cd708b487e69906873fa7f3d61388557edaae",
     "/assets/00123.jpg": "ee58013fb9240ec7383b99f41b1675e1ab0859b2",
     "/assets/1200px-FIVB_flag.svg.png": "650066e5f0c38b347f69e0205b253d4917119142",
-    "/assets/COPA ARGENTINA.jpg": "9de85046832f4ed87abe359930d71dda33efe424",
+    "/assets/COPA ARGENTINA.jpg": "d595e30e14d54ed1ce66f127089f762bc904ca7f",
     "/assets/FeVA horizontal blanco y celeste plenos.png": "431239a5e789a04edebc300caef229a7d995bbeb",
     "/assets/FeVA horizontal blanco, celeste y sombras.png": "953d8e1e1bab0ca0957fa9afa10f5a635f0baba4",
     "/assets/FeVA horizontal colores plenos.png": "25b89836c8a1d7db9f0246f1340198c7009b3d58",
@@ -157,7 +157,7 @@
     "/assets/icons/icon-128x128.png": "bfd60f2a4138f8d2cdf6a6aee896219cecac7132",
     "/assets/icons/icon-144x144.png": "37a9ed82cd3381d733429a9a8e00ef6cf2af255c",
     "/assets/icons/icon-152x152.png": "3281ce6530a775881e2bc57e5266c9ab9c0cf26c",
-    "/assets/icons/icon-192x192.png": "0d8a7b605c9ebab79f6fb9abc1eeb3ec335fbf89",
+    "/assets/icons/icon-192x192.png": "ddc8f597ce062b1f0957e44f55f46e40fd04d6b8",
     "/assets/icons/icon-384x384.png": "be43af46b3405ad32072630a797792aa10c85c5d",
     "/assets/icons/icon-512x512.png": "d5b0016f495de3d159bbaee0fa7f37b4c9552e1c",
     "/assets/icons/icon-72x72.png": "3758e3c058f5211b4c64104ac123f684b9d5cb8c",
@@ -191,11 +191,11 @@
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/fondo1.b197943c74cc2cc7.png": "a9bf263514b25d8ba0e1e1947131751731a9f39b",
-    "/index.html": "e1ef930e0e0418122372412e44a3c61a0571e212",
+    "/index.html": "e278ce2f47dea0f9093c124141bfb80e1673866c",
     "/main.7d2df3b8348f7f20.js": "2b1f01b5e245dc4dcb4e04e5d00f5857ef7a763c",
     "/manifest.webmanifest": "60221d50489f48e29c429b502a668888c9b2d7c3",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
-    "/runtime.f4bc118262207218.js": "03f09e8a21278cad8922568c96da1f14b80e911a",
+    "/runtime.4664668cc0c6ed31.js": "48353f9ca7b2f365dbb6310ea9f80b165f20be13",
     "/styles.c2bacaec17939ad1.css": "72cf2e9aba4574a9dd28b2fc2750ecb960ceb2a5",
     "/videogular.a2e9f11f226cda93.ttf": "bb67bb29f92837ac5e2ea0bfd9fa689ad15fb887",
     "/videogular.b5fa324995460a3b.svg": "5f425e191f26e38cc784ef48eafebdb6d2b070db",
