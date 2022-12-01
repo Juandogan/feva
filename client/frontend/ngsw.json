@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669903209652,
+  "timestamp": 1669908987867,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/433.9d4b530212461e58.js",
+        "/433.183a81383a2a77db.js",
         "/favicon.ico",
         "/index.html",
-        "/main.7d2df3b8348f7f20.js",
+        "/main.64b983c846d91607.js",
         "/manifest.webmanifest",
         "/polyfills.9e8a5187e66563c0.js",
-        "/runtime.4664668cc0c6ed31.js",
-        "/styles.c2bacaec17939ad1.css"
+        "/runtime.9c9dbf73c4f5b4b5.js",
+        "/styles.91efbea72bbe41a8.css"
       ],
       "patterns": []
     },
@@ -122,7 +122,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/433.9d4b530212461e58.js": "ef5f8cf6eb06b3b275cb9f0c29c274b8cc62e459",
+    "/433.183a81383a2a77db.js": "76b664b9251451f8db4a605dcad2bb310ddccea4",
     "/Kanit-italic-700.c9096f61de66111c.woff2": "6c02040e884f9d23c305ea87290cc5a5adc188fe",
     "/Kanit-italic-700.df3b457e830fb275.ttf": "ed0a8f726afc3e8e1676e081ca1daa77c740e453",
     "/Kanit-italic-700.ef7231f844e7a12b.woff": "b1f725e5d57c2ac43e9aceb16457563aae2a9d58",
@@ -160,7 +160,7 @@
     "/assets/favicon.png": "bd75c6f32fc3f10497227577f55021597c0b1355",
     "/assets/fevabarra.png": "4c0a02a0dcc07e34015df54ae741ccf08f5933ee",
     "/assets/fivb.png": "0a1c26f151508ad1b43bca8d1241450944f37380",
-    "/assets/fondo.jpg": "f8bd9ad7371d8113b42fd0afa397178fb12e9f2b",
+    "/assets/fondo.jpg": "bf2d8de26b27fe11e7298e965ed812d91eeaa632",
     "/assets/fondo1.png": "a9bf263514b25d8ba0e1e1947131751731a9f39b",
     "/assets/icons/icon-128x128.png": "758e3322057aeb9f53471ab0c203e09bb947459b",
     "/assets/icons/icon-144x144.png": "456bc5bfc11f2b650920254d544d76059f365198",
@@ -207,12 +207,12 @@
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/fondo1.b197943c74cc2cc7.png": "a9bf263514b25d8ba0e1e1947131751731a9f39b",
-    "/index.html": "e278ce2f47dea0f9093c124141bfb80e1673866c",
-    "/main.7d2df3b8348f7f20.js": "2b1f01b5e245dc4dcb4e04e5d00f5857ef7a763c",
+    "/index.html": "29ef266dd452bf386ec97e1c48813dbf58b33549",
+    "/main.64b983c846d91607.js": "3667db5d9022476c2349b1b76f9940cc6009d664",
     "/manifest.webmanifest": "fb59901d1c58040fde04261f0da17dedd88b2381",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
-    "/runtime.4664668cc0c6ed31.js": "48353f9ca7b2f365dbb6310ea9f80b165f20be13",
-    "/styles.c2bacaec17939ad1.css": "72cf2e9aba4574a9dd28b2fc2750ecb960ceb2a5",
+    "/runtime.9c9dbf73c4f5b4b5.js": "7e5051698df9784d95fa6e863b05b9a7504f44aa",
+    "/styles.91efbea72bbe41a8.css": "c06a41ee83f8309bf1345bd50d2fa990c6e7d460",
     "/videogular.a2e9f11f226cda93.ttf": "bb67bb29f92837ac5e2ea0bfd9fa689ad15fb887",
     "/videogular.b5fa324995460a3b.svg": "5f425e191f26e38cc784ef48eafebdb6d2b070db",
     "/videogular.ef07f01ce399477e.woff": "0e25c781426255dc473162ae7cd0fab5a5a721a4"
