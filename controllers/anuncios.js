@@ -39,6 +39,16 @@ router.get('/' ,  async (req, res)=>{
       link8:req.body.link8,
       link9:req.body.link9,
       link10:req.body.link10,
+      contador1:req.body.contador1,
+      contador2:req.body.contador2,
+      contador3:req.body.contador3,
+      contador4:req.body.contador4,
+      contador5:req.body.contador5,
+      contador6:req.body.contador6,
+      contador7:req.body.contador7,
+      contador8:req.body.contador8,
+      contador9:req.body.contador9,
+      contador10:req.body.contador10,
       vistas:req.body.vistas,
       fecha: req.body.fecha,
       fechaMod:req.body.fechaMod,
@@ -76,8 +86,6 @@ router.get('/:_id' , async(req,res) => {
     console.log("sasas")
     const { _id } = req.params;
     const anuncios = { 
-          
-      
       categoria:req.body.categoria,
       imagen1:req.body.imagen1,
       imagen2:req.body.imagen2,
@@ -99,6 +107,16 @@ router.get('/:_id' , async(req,res) => {
       link8:req.body.link8,
       link9:req.body.link9,
       link10:req.body.link10,
+      contador1:req.body.contador1,
+      contador2:req.body.contador2,
+      contador3:req.body.contador3,
+      contador4:req.body.contador4,
+      contador5:req.body.contador5,
+      contador6:req.body.contador6,
+      contador7:req.body.contador7,
+      contador8:req.body.contador8,
+      contador9:req.body.contador9,
+      contador10:req.body.contador10,
       vistas:req.body.vistas,
       fecha: req.body.fecha,
       fechaMod:req.body.fechaMod,

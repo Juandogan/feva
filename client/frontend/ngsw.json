@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669908987867,
+  "timestamp": 1672236931343,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/433.183a81383a2a77db.js",
+        "/511.789af5751572e355.js",
         "/favicon.ico",
         "/index.html",
-        "/main.64b983c846d91607.js",
+        "/main.176b6490f0a8ad2f.js",
         "/manifest.webmanifest",
         "/polyfills.9e8a5187e66563c0.js",
-        "/runtime.9c9dbf73c4f5b4b5.js",
+        "/runtime.0eda2648ad866090.js",
         "/styles.91efbea72bbe41a8.css"
       ],
       "patterns": []
@@ -69,6 +69,7 @@
         "/assets/fivb.png",
         "/assets/fondo.jpg",
         "/assets/fondo1.png",
+        "/assets/iconPlaystore.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -99,6 +100,7 @@
         "/assets/imagenFlyer.jpg",
         "/assets/images (1).jfif",
         "/assets/images.jfif",
+        "/assets/loader.gif",
         "/assets/loading.png",
         "/assets/logo.png",
         "/assets/logo_fed.png",
@@ -122,7 +124,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/433.183a81383a2a77db.js": "76b664b9251451f8db4a605dcad2bb310ddccea4",
+    "/511.789af5751572e355.js": "32d987610ea5ec9d0a3894fd16d68ecdeebbacac",
     "/Kanit-italic-700.c9096f61de66111c.woff2": "6c02040e884f9d23c305ea87290cc5a5adc188fe",
     "/Kanit-italic-700.df3b457e830fb275.ttf": "ed0a8f726afc3e8e1676e081ca1daa77c740e453",
     "/Kanit-italic-700.ef7231f844e7a12b.woff": "b1f725e5d57c2ac43e9aceb16457563aae2a9d58",
@@ -162,6 +164,7 @@
     "/assets/fivb.png": "0a1c26f151508ad1b43bca8d1241450944f37380",
     "/assets/fondo.jpg": "bf2d8de26b27fe11e7298e965ed812d91eeaa632",
     "/assets/fondo1.png": "a9bf263514b25d8ba0e1e1947131751731a9f39b",
+    "/assets/iconPlaystore.png": "93c875a927d7a07490d4cf0b42d6ae0ac62dc280",
     "/assets/icons/icon-128x128.png": "758e3322057aeb9f53471ab0c203e09bb947459b",
     "/assets/icons/icon-144x144.png": "456bc5bfc11f2b650920254d544d76059f365198",
     "/assets/icons/icon-152x152.png": "56da75c0bcad88ec3c790e847e02bbb10df0cf28",
@@ -192,6 +195,7 @@
     "/assets/imagenFlyer.jpg": "6eb489d360c7eaa73392f6d15033577cacf981b5",
     "/assets/images (1).jfif": "8f81d5a2f964337323d1171ec172bf48f1aad22c",
     "/assets/images.jfif": "ea59b7db73ccb0dcda365d9cfa3467c2cd258867",
+    "/assets/loader.gif": "290f81fdbb8dae43fff8727eae3403a3c461fa7c",
     "/assets/loading.png": "9cdf6c45cc2a457c157ddfe9241228b5d5d0a9cd",
     "/assets/logo.png": "6da078ca2e1542650bfb6010a14bf641cbc6bc7c",
     "/assets/logo_fed.png": "ee408b011153541f9978bc794dc0a4b9d4863924",
@@ -207,11 +211,11 @@
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/fondo1.b197943c74cc2cc7.png": "a9bf263514b25d8ba0e1e1947131751731a9f39b",
-    "/index.html": "29ef266dd452bf386ec97e1c48813dbf58b33549",
-    "/main.64b983c846d91607.js": "3667db5d9022476c2349b1b76f9940cc6009d664",
-    "/manifest.webmanifest": "fb59901d1c58040fde04261f0da17dedd88b2381",
+    "/index.html": "a907aed2cc75875d1d54cc495f7d8da69ec1d827",
+    "/main.176b6490f0a8ad2f.js": "51e5c0254000f62b053e404754e0488f2fa32ce5",
+    "/manifest.webmanifest": "6f006f5f8cf77d218aeedec7398cfb1f9d7e1dd6",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
-    "/runtime.9c9dbf73c4f5b4b5.js": "7e5051698df9784d95fa6e863b05b9a7504f44aa",
+    "/runtime.0eda2648ad866090.js": "453803a942bc5d9822b2a393277e0d5459504b39",
     "/styles.91efbea72bbe41a8.css": "c06a41ee83f8309bf1345bd50d2fa990c6e7d460",
     "/videogular.a2e9f11f226cda93.ttf": "bb67bb29f92837ac5e2ea0bfd9fa689ad15fb887",
     "/videogular.b5fa324995460a3b.svg": "5f425e191f26e38cc784ef48eafebdb6d2b070db",

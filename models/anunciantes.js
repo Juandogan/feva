@@ -25,6 +25,19 @@ const anunciantesSchema = new Schema({
  link8:{type: String, required : false},
  link9:{type: String, required : false},
  link10:{type: String, required : false},
+
+contador1:{type: Number, required : false},
+contador2:{type: Number, required : false},
+ contador3:{type: Number, required : false},
+ contador4:{type: Number, required : false},
+ contador5:{type: Number, required : false},
+ contador6:{type: Number, required : false},
+ contador7:{type: Number, required : false},
+ contador8:{type: Number, required : false},
+ contador9:{type: Number, required : false},
+ contador10:{type: Number, required : false},
+
+
  fecha :{type: String, required : false},
  fechaMod:{type: String, required : false},
  vistas:{type: String, required : false},
