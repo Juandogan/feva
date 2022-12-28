@@ -21,10 +21,12 @@ https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubunt
 ///Matar proceso que no deja instalar nodejs. con el 
 sudo fuser -vki /var/lib/dpkg/lock-frontend 
 
+https://github.com/Juandogan/feva.git
 
 
 nvm install 16.15.1
 salvar
+rm -r -f feva
 cp -RT -f /home/feva/subidas/ /home/img
 copiar
 cp -RT -f /home/img /home/feva/subidas/ 
