@@ -24,3 +24,7 @@ sudo fuser -vki /var/lib/dpkg/lock-frontend
 
 
 nvm install 16.15.1
+salvar
+cp -RT -f /home/feva/subidas/ /home/img
+copiar
+cp -RT -f /home/img /home/feva/subidas/ 
